@@ -162,7 +162,6 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
@@ -210,5 +209,3 @@ dist
 # Cloud9 IDE - http://c9.io
 .c9revisions
 .c9
-
-/build/
